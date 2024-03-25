@@ -1,7 +1,3 @@
-git remote add origin https://github.com/yuuichi27/practiceAssignment.git
-git branch -M main
-git push -u origin main
-
 import java.util.*;
 
 public class Main {
